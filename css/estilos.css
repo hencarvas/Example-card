@@ -83,6 +83,14 @@ body {
   margin-bottom: 2rem;
 }
 
+.card-footer-social h3 {
+  font-size: 1.8rem;
+  margin-bottom: 3px;
+}
+
 .card-footer-social p {
+  margin-top: 0;
   letter-spacing: 1px;
+  color: var(--dark-gray);
+  font-weight: bold;
 }
